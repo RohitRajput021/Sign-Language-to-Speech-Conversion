@@ -59,7 +59,7 @@ The following connections enable the project setup:
 - **DF Mini Player**: Connected via TX (D9) and RX (D10).
 - **Speaker**: Connected to the DF Mini Player’s output.
 
-[![Circuit Diagram](assets/Circuit%20Diagram.pdf)](assets/Circuit%20Diagram.pdf)
+![Circuit Diagram](./Circuit%20Diagram.jpg)
 
 
 ## Setup and Usage
