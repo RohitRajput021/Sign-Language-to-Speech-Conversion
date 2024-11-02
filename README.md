@@ -89,5 +89,15 @@ The Sign Language to Speech Conversion project empowers speech-impaired individu
 
 ---
 
+## Contact
+
+For inquiries or feedback, please contact:
+
+- **Name**: Rohit Rajput
+- **Email**: iamrohitrajput21@gmail.com
+- **GitHub**: [RohitRajput021](https://github.com/RohitRajput021)
+- **LinkedIn**: [rajputrohit21](https://www.linkedin.com/in/rajputrohit21)
+
+---
 For more details and code, visit the [repository](https://github.com/RohitRajput021/Sign-Language-to-Speech-Conversion.git).
 
